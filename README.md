@@ -5,7 +5,7 @@
 - 🧑‍💻 Working part time at [ACMiN AGH](https://acmin.agh.edu.pl/en/), simulating electron transport of real materials in Python and [KWANT](https://kwant-project.org/).
 - 🌱 I’m interested in computer physics, numerical methods and quantum mechanics.
 - 📫 How to reach me: [e-mail](kacperpoluszejko@wp.pl), [linkedin](https://www.linkedin.com/in/kacper-po%C5%82uszejko-358997287/).
-- 💻 C++, Python, Matlab.
+- 💻 C, C++, Python, Matlab.
 
 <!---
 kacperpoluszejko/kacperpoluszejko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
