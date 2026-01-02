@@ -7,6 +7,7 @@
 - 📫 How to reach me: [e-mail](kacperpoluszejko@wp.pl), [linkedin](https://www.linkedin.com/in/kacper-po%C5%82uszejko-358997287/).
 - 💻 C, C++, Python, Matlab.
 
+[My LeetCode Page](https://leetcode.com/u/Kapcer767/)
 <!---
 kacperpoluszejko/kacperpoluszejko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
