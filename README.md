@@ -18,7 +18,7 @@ I am a **computational physics engineer** focused on **numerical simulations, sc
 ### Tools & Languages
 - **Languages:** C, C++, Python, MATLAB  
 - **Scientific stack:** NumPy, SciPy, matplotlib, KWANT  
-- **Methods:** Runge–Kutta schemes, Galerkin methods, Crank–Nicolson, Monte Carlo  
+- **Methods:**  Monte Carlo, Runge–Kutta schemes, Galerkin methods, Crank–Nicolson
 
 📫 **Contact:** [email](mailto:poluszejkokacper@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kacper-po%C5%82uszejko-358997287/)  
 📂 **Code:** [GitHub repositories](https://github.com/kacperpoluszejko)  
