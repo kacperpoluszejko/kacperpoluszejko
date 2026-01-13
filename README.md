@@ -1,14 +1,25 @@
-# Hi, I'm Kacper 👋
+## Hi, I'm Kacper 👋
 
-- 📖 I'm currently pursuing a Master's degree in [Technical Physics](https://sylabusy.agh.edu.pl/pl/1/2/20/1/5/17/45) with a specialization in Computational Physics.
-- 🎓 Bsc in [Micro- and Nanotechnologies in Biophysics at AGH University of Kraków](https://sylabusy.agh.edu.pl/pl/1/2/17/1/4/17/99).
-- 🧑‍💻 Working part time at [ACMiN AGH](https://acmin.agh.edu.pl/en/), simulating electron transport of real materials in Python and [KWANT](https://kwant-project.org/).
-- 🌱 I’m interested in computer physics, numerical methods and quantum mechanics.
-- 📫 How to reach me: [e-mail](kacperpoluszejko@wp.pl), [linkedin](https://www.linkedin.com/in/kacper-po%C5%82uszejko-358997287/).
-- 💻 C, C++, Python, Matlab.
+I am a **computational physics engineer** focused on **numerical simulations, scientific computing, and algorithmic modeling of physical systems**.
 
-[My LeetCode Page](https://leetcode.com/u/Kapcer767/)
-<!---
-kacperpoluszejko/kacperpoluszejko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 MSc student in **Technical Physics (Computational Physics)** at AGH University of Science and Technology  
+- 🎓 BSc in **Micro- and Nanotechnologies in Biophysics**
+- 🔬 Research assistant at **ACMiN AGH**, developing **numerical simulations of electronic structure and quantum transport** in low-dimensional materials
+- 🧮 Experienced in implementing **ODE- and PDE-based models**, Monte Carlo simulations, and matrix-based methods from scratch
+- 💻 Strong background in **C, C++, Python** for scientific and numerical computing
+
+### Research & Technical Interests
+- Numerical methods for physical modeling  
+- Scientific computing and simulation software  
+- Electronic structure and quantum transport  
+- Stochastic simulations and complex systems  
+- Linear algebra and matrix-based discretizations  
+
+### Tools & Languages
+- **Languages:** C, C++, Python, MATLAB  
+- **Scientific stack:** NumPy, SciPy, matplotlib, KWANT  
+- **Methods:** Runge–Kutta schemes, Galerkin methods, Crank–Nicolson, Monte Carlo  
+
+📫 **Contact:** [email](mailto:poluszejkokacper@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kacper-po%C5%82uszejko-358997287/)  
+📂 **Code:** [GitHub repositories](https://github.com/kacperpoluszejko)  
+🧩 **Algorithms practice:** [LeetCode](https://leetcode.com/)
