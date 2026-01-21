@@ -1,6 +1,6 @@
 ## Hi, I'm Kacper 👋
 
-I am a **computational physics engineer** focused on **numerical simulations, scientific computing, and algorithmic modeling of physical systems**.
+I am a **computational physics engineer** focused on **numerical simulations, scientific computing, and algorithmic modeling of physical systems**
 
 - 🎓 MSc student in **Technical Physics (Computational Physics)** at AGH University of Science and Technology  
 - 🎓 BSc in **Micro- and Nanotechnologies in Biophysics**
