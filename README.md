@@ -13,12 +13,10 @@ I am a **computational physics engineer** focused on **numerical simulations, sc
 - Scientific computing and simulation software  
 - Electronic structure and quantum transport  
 - Stochastic simulations and complex systems  
-- Linear algebra and matrix-based discretizations  
 
 ### Tools & Languages
 - **Languages:** C, C++, Python, MATLAB  
 - **Scientific stack:** NumPy, SciPy, matplotlib, KWANT  
-- **Methods:**  Monte Carlo, Runge–Kutta schemes, Galerkin methods, Crank–Nicolson
 
 📫 **Contact:** [email](mailto:poluszejkokacper@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kacper-po%C5%82uszejko-358997287/)   
 🧩 **Algorithms practice:** [LeetCode](https://leetcode.com/)
